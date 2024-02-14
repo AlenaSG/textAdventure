@@ -1,2 +1,2 @@
 # textAdventure
-This a text based adventure game with HTML, CSS and JavaScript
+This is a text based adventure game with HTML, CSS and JavaScript
